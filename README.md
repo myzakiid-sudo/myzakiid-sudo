@@ -45,11 +45,11 @@
 
 <br />
 
-### 📈 Contribution Activity 
+### 📈 Coding Activity (Last Month)
 
-<!-- Grafik Kontribusi (Langsung Muncul Tanpa Action) -->
+<!-- Widget Aktivitas Kontribusi (Stabil & Langsung Muncul) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myzakiid-sudo&bg_color=00000000&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myzakiid-sudo&theme=tokyonight&border_radius=10&bg_color=00000000" alt="Productive Time" width="100%" />
 </p>
 
 </div>
