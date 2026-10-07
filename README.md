@@ -1,5 +1,5 @@
 <!-- Header Animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hi%20there!%20%F0%9F%91%8B%20I'm%20Zaki&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%40%20BCC%20FILKOM%20%7C%20Information%20Systems%20UB&descAlignY=75&descAlign=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hi%20there!%20%F0%9F%91%8B%20I'm%20Zaki&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%40%20BCC%20FILKOM%20%7C%20Information%20Systems%20UB&descAlignY=75&descAlign=50" width="100%" />
 
 <div align="center">
 
@@ -33,27 +33,23 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Statistik (Tema Tokyonight yang modern) -->
+<!-- Statistik Transparan & Tanpa Rank -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myzakiid-sudo&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&ring_color=3B82F6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myzakiid-sudo&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myzakiid-sudo&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=3B82F6&ring_color=3B82F6&hide_rank=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myzakiid-sudo&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=myzakiid-sudo&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=myzakiid-sudo&theme=tokyonight&background=00000000&hide_border=true&title_color=3B82F6" alt="GitHub Streak" />
 </p>
 
 <br />
 
-### 🐍 Contribution Activity 
+### 📈 Contribution Activity 
 
-<!-- Gambar ini akan rusak/kosong sampai kamu menjalankan GitHub Action di Langkah 2 -->
+<!-- Grafik Kontribusi (Langsung Muncul Tanpa Action) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myzakiid-sudo/myzakiid-sudo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myzakiid-sudo/myzakiid-sudo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/myzakiid-sudo/myzakiid-sudo/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myzakiid-sudo&bg_color=00000000&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 </div>
