@@ -45,11 +45,5 @@
 
 <br />
 
-### 📈 Coding Activity (Last Month)
-
-<!-- Widget Aktivitas Kontribusi (Stabil & Langsung Muncul) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myzakiid-sudo&theme=tokyonight&border_radius=10&bg_color=00000000" alt="Productive Time" width="100%" />
-</p>
 
 </div>
