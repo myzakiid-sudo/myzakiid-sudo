@@ -1,6 +1,7 @@
-name: Generate Datas
+name: Generate Snake Animation
+
 on:
-  schedule: # Jalankan setiap 12 jam
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -9,15 +10,16 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@v3
         with:
-          github_user_name: USERNAME_KAMU
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: myzakiid-sudo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
